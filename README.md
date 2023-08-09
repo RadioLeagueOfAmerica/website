@@ -1,3 +1,5 @@
+# Current Site is Using Spectral Hugo Template
+
 # Spectral
 
 Based on html5up’s [Spectral](https://html5up.net/spectral) theme.
