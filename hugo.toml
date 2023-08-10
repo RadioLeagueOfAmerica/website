@@ -158,7 +158,7 @@ formspree_form_id = "example_invalid"
 [params.social]
 twitter = ""
 mastodon = ""
-github = "https://github.com/RadioLeagueOfAmerica"
+github = "RadioLeagueOfAmerica"
 facebook = ""
 youtube = ""
 instagram = ""
