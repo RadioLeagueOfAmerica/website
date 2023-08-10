@@ -30,7 +30,7 @@ title = "Posts"
 
 [params.one]
 enable = true
-title = 'Amateur Radio Representation & Services<br />for the Rest of Us'
+title = 'Amateur Radio Representation & Services <br />for the Rest of Us'
 body = '''
 The amateur radio community is too large, and too diverse to be represented by a single
 national entity. The ARRL does a significant amount of very important advocacy and lobbying work for
@@ -151,14 +151,14 @@ title = "Contact"
 body = "Leave us a message."
 phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
+email = "admin@radioleagueofamerica.org"
 subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
 [params.social]
 twitter = ""
 mastodon = ""
-github = ""
+github = "https://github.com/RadioLeagueOfAmerica"
 facebook = ""
 youtube = ""
 instagram = ""
