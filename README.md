@@ -1,5 +1,5 @@
 # Current Site is Using Spectral Hugo Template
-Front Page text etc. is in config.toml
+Front Page text etc. is in hugo.toml
 
 ## Spectral
 
