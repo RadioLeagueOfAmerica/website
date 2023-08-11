@@ -1,12 +1,12 @@
 baseURL = "/"
-title = "Radio League of America"
+title = "Radio League of America & Expansive Radio"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
 theme = "spectral"
 
 [params]
-fancyTitle = "Radio League of America" # title for frontpage, may include image
+fancyTitle = "Radio League of America <br> & <br> Expansive Radio" # title for frontpage, may include image
 copyright = ""
 description = 'A future vision for supporting <br />a more modern and diverse amateur radio<br />'
 #startbuttonText = "Activate"
@@ -70,11 +70,11 @@ of several in the early days of amateur radio, and were actually the [first to s
 
 [[params.two.section]]
 img = "img/pic02.jpg"
-title = 'Reviving the Radio League of America'
+title = 'What is in a Name?'
 body = '''
-While the final name of a new organization may be something different, with it's history of being another option, at the forefront of amateur radio technology and service, the RLA
-makes an excellent umbrella to start consolidating and gathering the ideas that have been expressed around the need for another
-option in our modern and diverse world.
+While we don't yet know exactly what we'll call ourselves, with it's history of being another option, at the forefront of amateur radio technology and service, 
+the Radio League of America has a unique vibe. Expansive Radio is a term we use in our discord and other documentation, to reflect 
+the expansive nature of what we're trying to accomplish - whatever we end up calling ourselves, we want it to reflect what and who we are.
 '''
 
 [[params.two.section]]
