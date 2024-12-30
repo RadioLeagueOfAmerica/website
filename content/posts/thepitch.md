@@ -1,4 +1,10 @@
-+++ author = "N3VEM" title = "Making the Pitch" date = "2024-12-29" description = "Making the Pitch for Next Steps" tags = [ "coming soon", ] +++
++++
+author = "N3VEM"
+title = "Making the Pitch"
+date = "2024-12-29"
+description = "Making the Pitch for Next Steps"
+tags = [ "coming soon", ]
++++
 
 # Making the Pitch
 
