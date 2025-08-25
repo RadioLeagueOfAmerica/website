@@ -82,14 +82,11 @@ img = "img/pic03.jpg"
 title = 'Would you like to contribute?'
 body = '''
   Now is an excellent time to have your voice heard. We are currently just a collection of hams, who have started to attempt
-to gather our thoughts collectively in one space. Our current mission is to see if building something like this, for us, is
+to gather our thoughts. Our current mission is to see if building something like this, for us, is
 possible.  
   
-  [Join us on Discord](https://discord.gg/MY8xqYEMq) and tell us your thoughts, or to ask for access to contribute to our Notion documentation where we have begun
-to gather our thoughts.  
-  
-  If you are not a user of Discord, more options will be coming soon, but in the meantime you can 
-  send an email to admin@radioleagueofamerica.org and we can get you set up to help out.
+If you think you might be interested in helping out, you can 
+  send an email to admin@radioleagueofamerica.org and we will get in touch!
 '''
 
 [params.three]
